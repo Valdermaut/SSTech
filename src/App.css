@@ -1,0 +1,6 @@
+.nav-bar{
+  background: rgba(152, 238, 207, 0.3);  /* fallback for old browsers */
+color: whitesmoke;
+position: relative;
+top: 50px;
+}

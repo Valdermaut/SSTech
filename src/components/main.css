@@ -1,0 +1,301 @@
+  .ban1{  
+    margin-top: 10em;
+    text-align: left;
+    width: 90%;  
+    background: rgb(101,4,165);
+background: radial-gradient(circle, rgb(70, 110, 95) 0%, rgb(90, 141, 122) 19%, #98EECF 100%);
+  }
+
+  .card1{
+      position: relative;
+      top:-15em;
+      left:30%;
+  }
+
+  .ctext1{
+    font-family: 'Overpass', sans-serif;
+    font-size:7em;
+    position: relative;
+    top: .7em;
+    left: 1em;
+    color: rgb(255, 255, 255) ;
+
+  }
+
+  .text1{
+    font-family: 'Poiret One', cursive;
+    font-size:2em;
+    position: relative;
+    top: 5em;
+    left: 4em;
+    line-height: 1em;
+    color:whitesmoke ;
+  }
+
+  .text2{
+      margin-left: 14em;
+      font-size: 1.2em;
+      margin-top: 1em;
+  }
+
+  .ban2{  
+    margin-top: 10em;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    right:-10%;  
+    background: rgb(101,4,165);
+    background: radial-gradient(circle, rgb(70, 110, 95) 0%, rgb(90, 141, 122) 19%, #98EECF 100%);
+  }
+
+  .card2{
+      position: relative;
+      top:-15em;
+      left:30%;
+  }
+
+  .ctext2{
+    font-family: 'Overpass', sans-serif;
+    font-size:7em;
+    position: relative;
+    top: .7em;
+    left: 1em;
+    color: rgb(255, 255, 255) ;
+
+  }
+
+  .text3{
+    font-family: 'Poiret One', cursive;
+    font-size:2em;
+    position: relative;
+    top: 5em;
+    left: 4em;
+    line-height: 1em;
+    color:whitesmoke ;
+  }
+
+  .text4{
+      margin-left: 14em;
+      font-size: 1.2em;
+      margin-top: 1em;
+  }
+
+  .ban3{  
+    margin-top: 10em;
+    text-align: left;
+    width: 90%;  
+    background: rgb(101,4,165);
+    background: radial-gradient(circle, rgb(70, 110, 95) 0%, rgb(90, 141, 122) 19%, #98EECF 100%);
+  }
+
+  .card3{
+      position: relative;
+      top:-15em;
+      left:30%;
+  }
+
+  .ctext3{
+    font-family: 'Overpass', sans-serif;
+    font-size:7em;
+    position: relative;
+    top: .7em;
+    left: 1em;
+    color: rgb(255, 255, 255) ;
+
+  }
+
+  .text5{
+    font-family: 'Poiret One', cursive;
+    font-size:2em;
+    position: relative;
+    top: 5em;
+    left: 4em;
+    line-height: 1em;
+    color:whitesmoke ;
+  }
+
+  .text6{
+      margin-left: 14em;
+      font-size: 1.2em;
+      margin-top: 1em;
+  }
+
+  .ban4{  
+    margin-top: 10em;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    right:-10%;  
+    background: rgb(101,4,165);
+    background: radial-gradient(circle, rgb(70, 110, 95) 0%, rgb(90, 141, 122) 19%, #98EECF 100%);
+  }
+
+  .card4{
+      position: relative;
+      top:-15em;
+      left:30%;
+  }
+
+  .ctext4{
+    font-family: 'Overpass', sans-serif;
+    font-size:5em;
+    position: relative;
+    top: .7em;
+    left: 1em;
+    color: rgb(255, 255, 255) ;
+
+  }
+
+  .text7{
+    font-family: 'Poiret One', cursive;
+    font-size:2em;
+    position: relative;
+    top: 5em;
+    left: 4em;
+    line-height: 1em;
+    color:whitesmoke ;
+  }
+
+  .text8{
+      margin-left: 14em;
+      font-size: 1.2em;
+      margin-top: 1em;
+  }
+
+  .ban5{  
+    margin-top: 10em;
+    text-align: left;
+    width: 90%;  
+    background: rgb(101,4,165);
+    background: radial-gradient(circle, rgb(70, 110, 95) 0%, rgb(90, 141, 122) 19%, #98EECF 100%);
+  }
+
+  .card5{
+      position: relative;
+      top:-15em;
+      left:30%;
+  }
+
+  .ctext5{
+    font-family: 'Overpass', sans-serif;
+    font-size:6em;
+    position: relative;
+    top: .7em;
+    left: 1em;
+    color: rgb(255, 255, 255) ;
+
+  }
+
+  .text9{
+    font-family: 'Poiret One', cursive;
+    font-size:2em;
+    position: relative;
+    top: 5em;
+    left: 4em;
+    line-height: 1em;
+    color:whitesmoke ;
+  }
+
+  .text10{
+      margin-left: 14em;
+      font-size: 1.2em;
+      margin-top: 1em;
+  }
+
+  .ban6{  
+    margin-top: 10em;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    right:-10%;  
+    background: rgb(101,4,165);
+    background: radial-gradient(circle, rgb(70, 110, 95) 0%, rgb(90, 141, 122) 19%, #98EECF 100%);
+  }
+
+  .card6{
+      position: relative;
+      top:-15em;
+      left:30%;
+  }
+
+  .ctext6{
+    font-family: 'Overpass', sans-serif;
+    font-size:5em;
+    position: relative;
+    top: .7em;
+    left: 1em;
+    color: rgb(255, 255, 255) ;
+
+  }
+
+  .text11{
+    font-family: 'Poiret One', cursive;
+    font-size:2em;
+    position: relative;
+    top: 5em;
+    left: 4em;
+    line-height: 1em;
+    color:whitesmoke ;
+  }
+
+  .text12{
+      margin-left: 14em;
+      font-size: 1.2em;
+      margin-top: 1em;
+  }
+
+  .but1{
+    position: relative;
+    text-decoration: none;
+    width: 100px;
+    height:40px;
+    border: 2px;
+    border-color: skyblue;
+    border-radius: 5px;
+    border-style: solid;
+    box-shadow: 3px 3px 0px 0px grey;
+    left: 9em;
+    top: 12em;
+    background: linear-gradient(to right, #1488CC,rgb(7, 109, 168));
+    cursor: pointer;
+  }
+
+  .but2{
+    position: relative;
+    text-decoration: none;
+    width: 100px;
+    height:40px;
+    border: 2px;
+    border-color: skyblue;    border-radius: 5px;
+    border-style: solid;
+    top: 28em;
+    right: 22em;  
+    box-shadow: 3px 3px 0px 0px grey;
+    background: linear-gradient(to right, #1488CC,rgb(7, 109, 168));
+    cursor: pointer;
+  }
+
+  table{
+    width: 80%;
+    text-align:center ;
+    margin-top: 50px;
+  }
+
+  .footer{
+    transform:rotateZ('40');
+    font-family: 'Poiret One', cursive;
+    color: cornsilk;
+    margin-top: 60px;
+    background: #1488CC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1488CC, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1488CC, #2B32B2, #1488CC);  
+     
+   }
+
+    .fhead{
+      font-family: 'Cuprum', sans-serif;
+      color: rgb(255, 255, 255);
+  font-size:5em;
+  position: relative;
+  top:0.4em;
+    }
